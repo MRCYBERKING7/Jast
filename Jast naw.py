@@ -8,7 +8,7 @@ import requests
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from crack9 import __xXx____
+    from 2k9 import __xXx____
     __xXx____()
 elif bit == '32bit':
     from crack9 import __xXx____
